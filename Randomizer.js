@@ -1,3 +1,7 @@
+/**
+*	Randomizer - A simple class to get random data
+*/
+
 class Randomizer {
 
     getString(chars, length){
